@@ -3,7 +3,7 @@ Scientific Paper of COMPARATIVE STUDY OF A*, CSP, AND BAYESIAN NETWORKS IN CLASS
 # Comparative Study of **A\***, CSP, and Bayesian Networks in Classic Puzzles  
 This repository contains the full artefacts for the scientific paper  
 **“Comparative Study of A\*, Constraint-Satisfaction, and Bayesian Networks in Classic Puzzles”**  
-(written as a second-year AI course assignment).
+
 
 ---
 
